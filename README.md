@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 Welcome to My GitHub Profile!!</h1>
-<h3 align="center">An enthusiastic AI developer hailing from India</h3>
+<h3 align="center">An enthusiastic AI developer hailing from India</h3></p><br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivaharinikumaravel" alt="sivaharinikumaravel" /></a> </p>
 
