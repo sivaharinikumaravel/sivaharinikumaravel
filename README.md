@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivaharinikumaravel" alt="sivaharinikumaravel" /></a> </p>
 
- 📚 I'm Sivaharini K, a student currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Kongu Engineering College.
+- 📚 I'm Sivaharini K, A student currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Kongu Engineering College.
 
- 💡 I'm an enthusiast and explorer of emerging trends and technologies.
+- 💡 I'm an enthusiast and explorer of emerging trends and technologies.
 
 - 🌱 I’m currently learning **Microsoft AZURE**
 
@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sivaharinikumaravel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://leetcode.com/u/sivaharinik/" height="30" width="40" /></a>
-<a href="https://kaggle.com/sivaharinikumaravel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sivaharinikumaravel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sivaharinik_22a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sivaharinik_22a1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sivaharinik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sivaharinik/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sivaharinikumaravel93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sivaharinikumaravel93" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sivaharinikumaravel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://leetcode.com/u/sivaharinik/" height="30" width="40" /></a></t>
+<a href="https://kaggle.com/sivaharinikumaravel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sivaharinikumaravel" height="30" width="40" /></a></t>
+<a href="https://www.hackerrank.com/sivaharinik_22a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sivaharinik_22a1" height="30" width="40" /></a></t>
+<a href="https://www.leetcode.com/https://leetcode.com/u/sivaharinik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sivaharinik/" height="30" width="40" /></a></t>
+<a href="https://www.hackerearth.com/@sivaharinikumaravel93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sivaharinikumaravel93" height="30" width="40" /></a></t>
 <a href="https://auth.geeksforgeeks.org/user/sivaharinikyll8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sivaharinikyll8" height="30" width="40" /></a>
 </p>
 
@@ -34,4 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaharinikumaravel&show_icons=true&locale=en" alt="sivaharinikumaravel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaharinikumaravel&" alt="sivaharinikumaravel" /></p>
+<h3 align="left">LeetCode Stats:</h3>
+<p align="left">
+<img align="center" src="https://leetcard.jacoblin.cool/sivaharinik?theme=light&font=Karma&ext=contest" alt="LeetCode Stats" />
+</p>
