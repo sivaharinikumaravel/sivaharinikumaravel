@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/sivaharinikumaravel?tab=repositories](github.com/sivaharinikumaravel?tab=repositories)
 
-- 💬 Ask me about **Machine Learnin,Deep Learning and MYSQl**
+- 💬 Ask me about **Machine Learnin,Deep Learning and MYSQL**
 
 - 📫 How to reach me **sivaharinikumaravel93@gmail.com**
 
