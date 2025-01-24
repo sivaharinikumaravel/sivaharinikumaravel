@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! 👋 Welcome to My GitHub Profile!!</h1>
 <h3 align="center">An enthusiastic AI developer hailing from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaharinikumaravel&label=Profile%20views&color=0e75b6&style=flat" alt="sivaharinikumaravel" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivaharinikumaravel" alt="sivaharinikumaravel" /></a> </p>
 
 - 📚 I'm Sivaharini K, A student currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Kongu Engineering College.
